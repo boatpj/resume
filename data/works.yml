@@ -1,18 +1,24 @@
 - company: 'Data Wow'
   location: 'Bangkok, Thailand'
   position:
-    - title: 'Senior Technical Team Lead'
-      period: 'Jun 2022 - Current'
+    - title: 'Senior Technical Team Lead, Senior Backend Engineer'
+      period: 'Jun 2022 - Mar 2024'
+    - title: 'Engineering Manager'
+      period: 'Apr 2024 - Current'
   projects:
     - title: 'Yay'
-      technology: 'Ruby on Rails, ElasticSearch, Redis, Postgresql, MySql, ReactJS'
+      technology: 'Ruby on Rails, ElasticSearch, Redis, Postgresql, MySql, ReactJS, Cassandra'
       descriptions:
-      - Japanese SNS platform which has couple millions of users.
-      - Lead small cross functional team (remotely in Japan) to ensure quality and delivered in time.
+      - Japanese SNS platform which has couple millions of users and ~100k dau.
       - Develop and maintain API server for Yay app mainly using Ruby on Rails.
       - Use complex ElasticSearch query to serve the contents which match to user interests.
       - Design and develop admin tools for customer support using ReactJS.
-      - Since april 2024 until now also has a responsibility as "Engineering Manager" (with no title adjustment) on behave of former Engineering manager left the company.
+      - Rewrite game logic from scratch as a Ruby gems.
+      - Prevent spammers sign up and perform a certain action on SNS platform.
+      - Design and implement a reward system which give a reward as internal points to Stakers.
+      - Design and implement a flexible scoring system to evaluate our user ranking.
+      - Lead a multiple cross functional teams (remotely in Japan) to ensure quality and delivered in time.
+      - Modify team workflow to be more flexible to stakeholder requirement changes while also meet the sprint commitment.
 - company: 'Opn'
   location: 'Bangkok, Thailand'
   position:

@@ -1,8 +1,8 @@
 name: 'Pathompon Jirawanidchakorn'
 nickname: 'Boat'
 location: 'Bangkok, Thailand'
-email: 'boat.pathompon@gmail.com'
-github: 'vaixellx'
+email: 'boatp.work@gmail.com'
+github: 'boatp'
 phone: '+668-3565-6592'
 linkedin: 'https://www.linkedin.com/in/pathompon-jirawanidchakorn-09413785/'
 bio: >
@@ -20,29 +20,22 @@ english_level:
   speaking: 'Good'
   listening: 'Good'
 technical_skills:
-  languages:
-    - Ruby
-    - Javascript
-    - Node.js
-    - Typescript
-    - SQL
-  frameworks:
-    - Ruby on Rails
-    - ReactJS
-    - Bootstrap
-    - TailwindCSS
-  tools:
-    - Git
-    - Selenium
-    - Middleman
-    - Gatsby
-    - Strapi
-  other:
-    - Firebase
-    - Postgresql
-    - MySql
-    - Redis
-    - AWS
-    - InfluxDB
-    - ElasticSearch
-    - Cassandra
+  - Ruby
+  - Ruby on Rails
+  - Javascript
+  - ReactJS
+  - Next.JS
+  - Bootstrap
+  - TailwindCSS
+  - Postgresql
+  - MySql
+  - Redis
+  - AWS
+  - Git
+  - Firebase
+  - InfluxDB
+  - ElasticSearch
+  - Cassandra
+  - Graphql
+  - Middleman
+  - Gatsby
